@@ -1,6 +1,6 @@
 {
     "name": "endihunter/paginator",
-    "description": "Provides useful adapters for \Zend_Paginator",
+    "description": "Provides useful adapters for Zend_Paginator",
     "type": "library",
     "keywords": [
         "terranet",
