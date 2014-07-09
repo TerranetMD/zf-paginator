@@ -3,6 +3,10 @@
 #### Requirements
 * \Zend_Paginator (ZF1)
 
+#### Usage
+
+    $paginator = new \Terranet\Paginator($items, $page, $perPage, '\Terranet\Paginator\Adapter\MongoCursor');
+
 #### Installation
 
 ###### Via Composer
