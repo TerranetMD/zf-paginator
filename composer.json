@@ -1,5 +1,5 @@
 {
-    "name": "TerranetMD/zf-paginator",
+    "name": "terranetmd/zf-paginator",
     "description": "Provides useful adapters for Zend_Paginator",
     "type": "library",
     "keywords": [
