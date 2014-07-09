@@ -1,10 +1,11 @@
 {
-    "name": "endihunter/paginator",
+    "name": "TerranetMD/zf-paginator",
     "description": "Provides useful adapters for Zend_Paginator",
     "type": "library",
     "keywords": [
         "terranet",
-        "paginator"
+        "paginator",
+        "zf"
     ],
     "homepage": "http://github.com/endihunter/paginator",
     "license": "BSD-3-Clause",
